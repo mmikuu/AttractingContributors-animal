@@ -30,3 +30,4 @@ Goal - I want contributors to help me list some favorite Baseball players.
 9. sadaharu oh
 10. Michihiro Ogasawara
 11. Shohei Otani
+12. hichori morimoto
